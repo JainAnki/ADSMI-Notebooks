@@ -74,6 +74,7 @@
         - Support Vector Classifier
         - Multi Layer Perceptron
         - Random Forests        
+
         |Index| Model  | accuracy | f1_score  |
         |------------------| --------------- | ------------- | ------------- |
         |1.| Logistic Regression  |  0.82 | 0.89  |
