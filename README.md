@@ -47,7 +47,37 @@
       - perform Linear Regression and KNN Regressor
       - have an understanding of Regularization of Linear Models
       - Working with Iris Dataset and Real Estate.csv
-7. Sentiment Analysis using linear classifiers and unsupervised clustering.
+7. Linear Classification and LDA
+    - Learnings
+      - understand and code a logistic regression algorithm.
+      - understand the basics of Linear Discriminant Analysis (LDA)
+      - use toy datasets for binary classification
+      - use the standard MNIST dataset for multiclass classification.
+      - LDA trained with different number of features:
+
+      |Number of features| Dataset  | accuracy |
+      |------------------| --------------- | ------------- |
+      |1| MNIST | 40.53% |
+      || Fashion MNIST | 47.45% |
+      |2| MNIST | 54.80% |
+      || Fashion MNIST |  59.34% |
+      |5| MNIST |  82.99% |
+      || Fashion MNIST |  74.02% |
+      |7| MNIST | 86.9% |
+      || Fashion MNIST | 78.46% |
+      |9| MNIST | 88.67% |
+      || Fashion MNIST | 82.41% |
+      |10| MNIST | 92.55% |
+      || Fashion MNIST | 84.12% |
+      
+8. Model Selection and Cross Validation
+    - Learnings
+       - Understand the different Cross-validation of data
+       - Understand the importance and implementation of Cross-validation of ML models
+       - Develop an understanding of Model-Selection
+       - Akaike's Information Criteria (AIC) and Bayesian Information Criteria (BIC)
+       
+9. Sentiment Analysis using linear classifiers and unsupervised clustering.
     - a dataset containing amazon review information along with ratings
     - Learnings
       - undertake several important steps like cleaning the data and normalizing the data points.
@@ -66,7 +96,7 @@
       |4.|Ensemble Classifier 
       |4a.|KNeighborsClassifier, GaussianNB,LogisticRegression|0.8371957014401638 |0.911363184079602|
 
-5. Credit Card Default Risk Analysis
+10. Credit Card Default Risk Analysis
     - A dataset containing credit defaulters data
     - Learnings 
       - Understanding different classification techniques like:
