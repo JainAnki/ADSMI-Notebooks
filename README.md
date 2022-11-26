@@ -76,8 +76,22 @@
        - Understand the importance and implementation of Cross-validation of ML models
        - Develop an understanding of Model-Selection
        - Akaike's Information Criteria (AIC) and Bayesian Information Criteria (BIC)
+
        
-9. Sentiment Analysis using linear classifiers and unsupervised clustering.
+9. Evaluation of Performance Metrics
+    - Learnings
+       - learn about Classification tasks in Machine learning
+       - learn the appropriate performance metrics according to use case
+       - Working with UCI PIMA Indian Diabetes Dataset and Social Network Advertising dataset
+10. Naive Bayes and Decision Trees
+    - Learnings
+       - understanding the basics of decision trees and Naive Bayes Algorithm
+       - use multiple metrics which are popular with the decision tree algorithm and Naive Bayes 
+11. Perceptron and Intro to SVM
+    - Learnings
+       - understanding and experimenting with perceptrons and SVMs
+       - Worked with Iris.csv
+12. Sentiment Analysis using linear classifiers and unsupervised clustering.
     - a dataset containing amazon review information along with ratings
     - Learnings
       - undertake several important steps like cleaning the data and normalizing the data points.
