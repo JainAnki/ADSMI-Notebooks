@@ -112,7 +112,16 @@
           - Hieranchical and,
           - Gaussian Mixture Models.
       - compare the three different techniques on a standard datas
-15. Sentiment Analysis using linear classifiers and unsupervised clustering.
+15. PCA
+    - Learnings
+       - Principal Component Analysis, Dimensionality reduction
+16. Assocation Rule Mining ARM
+    - Working wihtMArketing campaign dataset to perfomr CONSUMER BUYING BEHAVIOUR ANALYSIS
+    - Learnings
+       - perform exhasutive EDA
+       - visualize the data distributions
+       - understand and implement Assocation Rule Mining
+17. Sentiment Analysis using linear classifiers and unsupervised clustering.
     - a dataset containing amazon review information along with ratings
     - Learnings
       - undertake several important steps like cleaning the data and normalizing the data points.
