@@ -19,11 +19,11 @@
         - Analyze the results between target and other features (Hint: Pair plot)
     6. 
 2. Numerical Optimozation
+    - Working with SIMPLEPENDULUMOSCILLATIONDATA.csv
     - Learnings
       - understand optimization, and differentiate between convex and non-convex optimization
       - understand unconstrained and constrained optimizations
       - understand gradient descent methods
-      - Working with SIMPLEPENDULUMOSCILLATIONDATA.csv
 3. Probability and Statistics for Data Science
    - Learnings
       - know a general idea on how probability plays an important role in data science.
@@ -40,14 +40,15 @@
       - understand k-Nearest Neighbors and implement from scratch and implement k-Nearest Neighbors and verifying using sklearn library
       - understand terms related to Bayesian Inference
 6. Regression Models
+    - Working with Iris Dataset and Real Estate.csv
     - Learnings
       - have an overview of the basics of Machine Learning
       - understand the implementation of Train/Test Split
       - develop an understanding of Least Squares, Learning Curves
       - perform Linear Regression and KNN Regressor
       - have an understanding of Regularization of Linear Models
-      - Working with Iris Dataset and Real Estate.csv
 7. Linear Classification and LDA
+    - Worked with MNIST and Fashion MNIST dataset
     - Learnings
       - understand and code a logistic regression algorithm.
       - understand the basics of Linear Discriminant Analysis (LDA)
@@ -77,21 +78,41 @@
        - Develop an understanding of Model-Selection
        - Akaike's Information Criteria (AIC) and Bayesian Information Criteria (BIC)
 
-       
 9. Evaluation of Performance Metrics
+    - Working with UCI PIMA Indian Diabetes Dataset and Social Network Advertising dataset
     - Learnings
        - learn about Classification tasks in Machine learning
        - learn the appropriate performance metrics according to use case
-       - Working with UCI PIMA Indian Diabetes Dataset and Social Network Advertising dataset
 10. Naive Bayes and Decision Trees
     - Learnings
        - understanding the basics of decision trees and Naive Bayes Algorithm
        - use multiple metrics which are popular with the decision tree algorithm and Naive Bayes 
 11. Perceptron and Intro to SVM
+    - Worked with Iris.csv
     - Learnings
        - understanding and experimenting with perceptrons and SVMs
-       - Worked with Iris.csv
-12. Sentiment Analysis using linear classifiers and unsupervised clustering.
+12. Hard and Soft Margin and Kernel Support Vector Machines - SVM
+    - Learnings
+       - understand the basics of soft margin vs hard margin SVM
+       - code a soft margin SVM and a hard margin SVM from scratch.
+       - solve a problem using kernel ridge regression.
+13. Ensemble Learning and Random Forests
+    - Learnings
+       - understand Ensemble learning and Ensemble methods
+       - perform Voting Classifier and Bagging Classifier using Scikit-Learn package
+       - understand the concept of Random Forest
+       - perform classification using RandomForestClassifier
+       - implement Gradient Boosting
+14. Clustering
+    - a dataset containing car sales
+    - Learnings
+      - understand the concept of clustering.
+      - use different types of clustering methods like
+          - K-Means,
+          - Hieranchical and,
+          - Gaussian Mixture Models.
+      - compare the three different techniques on a standard datas
+15. Sentiment Analysis using linear classifiers and unsupervised clustering.
     - a dataset containing amazon review information along with ratings
     - Learnings
       - undertake several important steps like cleaning the data and normalizing the data points.
@@ -109,8 +130,7 @@
       |3.| Decision Tree Classifier | 0.7336062577673806 |  0.8409150440932507 |
       |4.|Ensemble Classifier 
       |4a.|KNeighborsClassifier, GaussianNB,LogisticRegression|0.8371957014401638 |0.911363184079602|
-
-10. Credit Card Default Risk Analysis
+16. Credit Card Default Risk Analysis
     - A dataset containing credit defaulters data
     - Learnings 
       - Understanding different classification techniques like:
