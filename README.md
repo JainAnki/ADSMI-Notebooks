@@ -182,7 +182,7 @@
         |2.| Naive Bayes  | 0.79 |
         |3.| SVM  | 0.87 | 
 23. Software Bugs Detection
-    - worked with Roundcube mail application, Dataset
+    - worked with Roundcube mail application Dataset
     - Learnings 
       - Get an understanding of the dataset.
       - Perform Extensive EDA and Visualizations
@@ -192,4 +192,27 @@
         |------------------| --------------- | ------------- | ------------- |
         |1.| Logistic Regression  |  0.23 | 0.33 |
         |2.| SVC  | 0.59 | 0.14 | 
-24. 
+24. Resume Classification
+    - worked with Resume Recommendation Dataset
+    - Learnings 
+      - perform data preprocessing, EDA, feature extraction and NLP on the Resume dataset
+      - perform multinomial Naive Bayes classification on the Resume dataset
+25. Image classification using MLP and CNN
+    - worked with German Traffic Sign Detection Benchmark (GTSDB) Dataset
+    - Learnings 
+      - load and extract features of images
+      - implement simple neural network from Keras
+      - implement CNN using Keras
+26. Stock Prices Anomaly Detection
+    - Using the S&P 500 stock prices data of different companies, we will perform a PCA based analysis.
+    - Using the S&P 500 stock price index time series data, we will perform anomaly detection in the stock prices across the years.
+    - Learnings 
+      - perform PCA based stock analytics
+      - analyze and create time series data
+      - implement LSTM auto-encoders
+      - detect the anomalies based on the loss
+27. Cancer Detection in CT Scan Images using CNN
+    - Worked with CT images from cancer imaging archive (TCIA) with contrast and patient age.
+    - Learnings 
+      - The dataset is designed to allow for different methods to be tested for examining the trends in CT image data associated with using contrast and patient age.
+      - The basic idea is to identify image textures, statistical patterns and features correlating strongly with these traits and possibly build simple tools for automatically classifying these images when they have been misclassified Data
