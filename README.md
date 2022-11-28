@@ -16,8 +16,7 @@
     3. Visualization
         - Plot the distribution of all the variables as histograms
         - Correlations between variables as heatmap
-        - Analyze the results between target and other features (Hint: Pair plot)
-    6. 
+        - Analyze the results between target and other features (Hint: Pair plot) 
 2. Numerical Optimozation
     - Working with SIMPLEPENDULUMOSCILLATIONDATA.csv
     - Learnings
@@ -139,7 +138,7 @@
       |3.| Decision Tree Classifier | 0.7336062577673806 |  0.8409150440932507 |
       |4.|Ensemble Classifier 
       |4a.|KNeighborsClassifier, GaussianNB,LogisticRegression|0.8371957014401638 |0.911363184079602|
-16. Credit Card Default Risk Analysis
+18. Credit Card Default Risk Analysis
     - A dataset containing credit defaulters data
     - Learnings 
       - Understanding different classification techniques like:
@@ -154,5 +153,43 @@
         |2.| SVM  | 0.82 |0.89 |
         |3.| Multi Layer Perceptron  | 0.80 |0.88 | 
         |4.| Random Forests | 0.82 |0.89 |
-
-
+19. Community detection PPI
+    - Here the protein protein interaction in fly(Drosophila melanogaster) has been carried out and the dataset DM-LC.txt has been used
+    - Learnings 
+      - Community Detection in protein network using netwoekx for graph analysis
+20. Essential Genes - Prediction of Essential Genes from Networks
+    - to predict Essential Genes using the Protein network as the features of the STRING dataset
+    - Learnings 
+      - Get an understanding of the dataset
+      - Build and analyze Networks (or Graphs)
+      - Predict Essential Genes using the classification algorithm
+21. Traffic Analysis and Prediction
+    - worked with INRIX traffic dataset
+    - Learnings 
+      - convert the dataset to time series dataset
+      - predict the flow of traffic at any junction
+22. HR Analytics - Attrition
+    - worked with IBM HR Analytics Employee Attrition & Performance Dataset
+    - Learnings 
+      - Get an understanding of the dataset.
+      - Perform Extensive EDA and Visualizations
+      - Handraft the raw data suitable for a ML problem
+      - Predict(Classify) the employee Attrition based on employee performance
+     
+        |Index| Model  | classification Score |
+        |------------------| --------------- | ------------- |
+        |1.| Logistic Regression  |  0.53 |
+        |2.| Naive Bayes  | 0.79 |
+        |3.| SVM  | 0.87 | 
+23. Software Bugs Detection
+    - worked with Roundcube mail application, Dataset
+    - Learnings 
+      - Get an understanding of the dataset.
+      - Perform Extensive EDA and Visualizations
+      - utilizing the fundamental building blocks of the NLP to classify the issues under appropriate categories based on the text body of the issue/ticket being raised.
+     
+        |Index| Model  | Target - "Defect Type Family using IEEE" | Target - "Defect Type Family using ODC"|
+        |------------------| --------------- | ------------- | ------------- |
+        |1.| Logistic Regression  |  0.23 | 0.33 |
+        |2.| SVC  | 0.59 | 0.14 | 
+24. 
