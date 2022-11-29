@@ -211,7 +211,8 @@
       - analyze and create time series data
       - implement LSTM auto-encoders
       - detect the anomalies based on the loss
-27. Cancer Detection in CT Scan Images using CNN
+27. Banknote authentication - https://www.kaggle.com/code/jaina865/banknote-authentication-using-keras
+28. Cancer Detection in CT Scan Images using CNN
     - Worked with CT images from cancer imaging archive (TCIA) with contrast and patient age.
     - Learnings 
       - The dataset is designed to allow for different methods to be tested for examining the trends in CT image data associated with using contrast and patient age.
